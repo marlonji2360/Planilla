@@ -1,0 +1,16 @@
+C:\Users\marlon_jimenez\OneDrive - Banco de los Trabajadores (bantrab)\Documentos\Proyectos\2023\Planillas\Software\Planilla\Planilla\bin\Debug\Planilla.exe.config
+C:\Users\marlon_jimenez\OneDrive - Banco de los Trabajadores (bantrab)\Documentos\Proyectos\2023\Planillas\Software\Planilla\Planilla\bin\Debug\Planilla.exe
+C:\Users\marlon_jimenez\OneDrive - Banco de los Trabajadores (bantrab)\Documentos\Proyectos\2023\Planillas\Software\Planilla\Planilla\bin\Debug\Planilla.pdb
+C:\Users\marlon_jimenez\OneDrive - Banco de los Trabajadores (bantrab)\Documentos\Proyectos\2023\Planillas\Software\Planilla\Planilla\obj\Debug\Planilla.csproj.AssemblyReference.cache
+C:\Users\marlon_jimenez\OneDrive - Banco de los Trabajadores (bantrab)\Documentos\Proyectos\2023\Planillas\Software\Planilla\Planilla\obj\Debug\Planilla.csproj.SuggestedBindingRedirects.cache
+C:\Users\marlon_jimenez\OneDrive - Banco de los Trabajadores (bantrab)\Documentos\Proyectos\2023\Planillas\Software\Planilla\Planilla\obj\Debug\Planilla.frmCargaExcel.resources
+C:\Users\marlon_jimenez\OneDrive - Banco de los Trabajadores (bantrab)\Documentos\Proyectos\2023\Planillas\Software\Planilla\Planilla\obj\Debug\Planilla.frmPlanilla.resources
+C:\Users\marlon_jimenez\OneDrive - Banco de los Trabajadores (bantrab)\Documentos\Proyectos\2023\Planillas\Software\Planilla\Planilla\obj\Debug\Planilla.frmPrincipal.resources
+C:\Users\marlon_jimenez\OneDrive - Banco de los Trabajadores (bantrab)\Documentos\Proyectos\2023\Planillas\Software\Planilla\Planilla\obj\Debug\Planilla.frmTransaccionesEquivalentes.resources
+C:\Users\marlon_jimenez\OneDrive - Banco de los Trabajadores (bantrab)\Documentos\Proyectos\2023\Planillas\Software\Planilla\Planilla\obj\Debug\Planilla.frmVerDatos.resources
+C:\Users\marlon_jimenez\OneDrive - Banco de los Trabajadores (bantrab)\Documentos\Proyectos\2023\Planillas\Software\Planilla\Planilla\obj\Debug\ErpLista.Loading.resources
+C:\Users\marlon_jimenez\OneDrive - Banco de los Trabajadores (bantrab)\Documentos\Proyectos\2023\Planillas\Software\Planilla\Planilla\obj\Debug\Planilla.Properties.Resources.resources
+C:\Users\marlon_jimenez\OneDrive - Banco de los Trabajadores (bantrab)\Documentos\Proyectos\2023\Planillas\Software\Planilla\Planilla\obj\Debug\Planilla.csproj.GenerateResource.cache
+C:\Users\marlon_jimenez\OneDrive - Banco de los Trabajadores (bantrab)\Documentos\Proyectos\2023\Planillas\Software\Planilla\Planilla\obj\Debug\Planilla.csproj.CoreCompileInputs.cache
+C:\Users\marlon_jimenez\OneDrive - Banco de los Trabajadores (bantrab)\Documentos\Proyectos\2023\Planillas\Software\Planilla\Planilla\obj\Debug\Planilla.exe
+C:\Users\marlon_jimenez\OneDrive - Banco de los Trabajadores (bantrab)\Documentos\Proyectos\2023\Planillas\Software\Planilla\Planilla\obj\Debug\Planilla.pdb

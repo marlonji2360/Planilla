@@ -1,0 +1,17 @@
+USE Planilla
+GO
+
+CREATE PROCEDURE dbo.EditarTransaccionEquivalente
+
+@P_ID					INT,
+@P_TRANSACCION			VARCHAR(500),
+@P_EQUIVALENTE			VARCHAR(100)
+
+AS
+
+UPDATE	dbo.TransaccionesEquivalentes
+SET		TRANSACCION = @P_TRANSACCION,
+		EQUIVALENTE = @P_EQUIVALENTE
+WHERE	ID = @P_ID
+
+
